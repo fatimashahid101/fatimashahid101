@@ -10,3 +10,8 @@
  ###### Web and Hybrid Mobile Application @SMIT
 
 
+### ⚡ Languages and Tools:
+###### HTML, CSS, BootStrap, JavaScript, Firebase, Git, ReactJs, React-Redux, ReactNative
+
+### ⚡ Currently I'm Learning:
+###### React, MongoDB, NodeJS
