@@ -7,6 +7,7 @@
  
  ### Educational courses:
  ###### AI @PIAIC
+ ###### Blockchain @PIAIC
  ###### Web and Hybrid Mobile Application @SMIT
 
 
